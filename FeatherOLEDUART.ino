@@ -48,8 +48,5 @@ void loop() {
           display.display();
         }
     }
-  else
-    {
-    delay(10);
-    }
+
 }
