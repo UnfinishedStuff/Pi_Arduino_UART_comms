@@ -29,4 +29,4 @@ Program the Arduino-compatible and wire everything up.  Power the boards.  Run `
 
 # Known issues
 
-For some reason the Feather 328p is skipping characters at the start of the message.  Not sure why yet.   
+For some reason the Feather 328p is skipping the first character at the start of the message.  Not sure why yet.   
